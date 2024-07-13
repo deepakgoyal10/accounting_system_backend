@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.table-row {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.money-received {
+  color: rgb(14, 166, 14);
+  font-weight: 600;
+}
+.money-deducted {
+  color: rgb(214, 0, 0);
+  font-weight: 600;
+}
+.page-wrapper {
+  padding: 20px;
+  border: 1px solid rgb(226, 226, 226);
+}
